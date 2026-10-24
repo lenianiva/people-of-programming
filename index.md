@@ -44,6 +44,7 @@ Most importantly, we will continue to support each other, as People of Programmi
 [Remy Wang](https://remy.wang) (professor, UCLA)\
 [Qiantan Hong](https://github.com/kchanqvq) (PhD, Stanford)\
 [Arjun Bhamra](https://abhamra.com) (PhD, UC Berkeley)\
+[James You](https://james.rip) (PhD, U. Waterloo)\
 [Oliver Greer](https://github.com/Oliver-Greer) (Undergraduate, UC Berkeley)\
 [Cheng Zhang](https://czhang03.codeberg.page/) (Assistant Professor, Worcester Polytechnic Institute)\
 
